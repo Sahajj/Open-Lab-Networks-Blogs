@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anubis</title>
-    <link>/</link>
+    <link>https://sahajj.github.io/Open-Lab-Networks-Blogs/</link>
     <description>Anubis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Mar 2023 10:28:43 +0530</lastBuildDate>
     
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sahajj.github.io/Open-Lab-Networks-Blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A_Brief_History_of_Computer_Networks</title>
-      <link>/blog/a_brief_history_of_computer_networks/</link>
+      <link>https://sahajj.github.io/Open-Lab-Networks-Blogs/blog/a_brief_history_of_computer_networks/</link>
       <pubDate>Tue, 14 Mar 2023 10:28:43 +0530</pubDate>
       
-      <guid>/blog/a_brief_history_of_computer_networks/</guid>
+      <guid>https://sahajj.github.io/Open-Lab-Networks-Blogs/blog/a_brief_history_of_computer_networks/</guid>
       <description>&lt;h1 id=&#34;a-brief-history-of-computer-networks-draft-one&#34; &gt;A Brief History of Computer Networks (Draft one)
 &lt;span&gt;
     &lt;a href=&#34;#a-brief-history-of-computer-networks-draft-one&#34;&gt;

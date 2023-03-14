@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/a_brief_history_of_computer_networks/</loc>
+    <loc>https://sahajj.github.io/Open-Lab-Networks-Blogs/blog/a_brief_history_of_computer_networks/</loc>
     <lastmod>2023-03-14T10:28:43+05:30</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://sahajj.github.io/Open-Lab-Networks-Blogs/</loc>
     <lastmod>2023-03-14T10:28:43+05:30</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://sahajj.github.io/Open-Lab-Networks-Blogs/blog/</loc>
     <lastmod>2023-03-14T10:28:43+05:30</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://sahajj.github.io/Open-Lab-Networks-Blogs/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://sahajj.github.io/Open-Lab-Networks-Blogs/tags/</loc>
   </url>
 </urlset>
