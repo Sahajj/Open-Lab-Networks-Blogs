@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: ""
+baseUrl: "https://sahajj.github.io/Open-Lab-Networks-Blogs/"
 title: "Anubis"
 theme: "anubis"
 paginate: 10
